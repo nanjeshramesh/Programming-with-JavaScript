@@ -1,0 +1,1 @@
+var prop,car={make:"Audi",model:"R8",color:"red"};for(prop in car)window.document.write(car[prop]+"<br>");
