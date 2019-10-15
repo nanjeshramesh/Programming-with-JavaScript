@@ -1,0 +1,1 @@
+var discount,total=150,customerType="wholesale";"retail"==customerType?total>0&&total<100?discount=0:total>=100&&total<250&&(discount=.1):"wholesale"==customerType?total>0&&total<500&&(discount=.2):discount=0,window.document.write(discount);
