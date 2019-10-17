@@ -1,0 +1,1 @@
+var i=0;do{i+=1,window.document.write(i+"<br>")}while(i<5);window.document.write(" You have reached the end.");
