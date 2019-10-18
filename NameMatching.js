@@ -1,0 +1,1 @@
+var i,found=!1,names=["Nanjesh","Akhilesh","Ramesh","Sujatha"],name=window.prompt(" Enter the Name to find.");for(i=0;i<names.length;i+=1)if(names[i]===name){window.document.write("I found the name "+name),found=!0;break}found||window.document.write("No name matching the Search");
