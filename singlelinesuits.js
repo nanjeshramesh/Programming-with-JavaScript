@@ -1,0 +1,1 @@
+var guess=parseInt(window.prompt("Enter the number between 1 and 10"),10);5==guess?window.document.write("You guessed right!!"):window.document.write("You guessed wrong!!");
