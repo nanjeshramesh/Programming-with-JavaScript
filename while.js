@@ -1,0 +1,1 @@
+for(var x=0;x<10;)x+=1,window.document.write(" I am on Number"+x+"<br>");window.document.write(" You have reached the end!!!!");
