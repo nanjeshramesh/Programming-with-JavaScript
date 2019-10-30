@@ -1,0 +1,1 @@
+var $=function(e){"use strict";return window.document.getElementById(e)},emailAddress=$("email").value;window.console.log(emailAddress);
