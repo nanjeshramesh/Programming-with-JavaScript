@@ -1,0 +1,1 @@
+function writeMessage(){window.alert("Hello World!!")}
