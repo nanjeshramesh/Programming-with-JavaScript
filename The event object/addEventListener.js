@@ -1,0 +1,1 @@
+function init(){"use strict";window.document.getElementById("myButton").addEventListener("click",function(){window.alert("Hello World!!")})}window.addEventListener("load",init);
