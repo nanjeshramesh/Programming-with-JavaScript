@@ -1,0 +1,1 @@
+var names=[];names[0]="Guru",names[1]="Dobariya",names[2]="Hero",window.document.write(names[1]+" and length = "+names.length);
