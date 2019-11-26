@@ -1,0 +1,1 @@
+var names=[];names[0]="Guru",names[1]="Dobariya",names[2]="Umang",names[names.length]="Hero",window.document.write(names);
