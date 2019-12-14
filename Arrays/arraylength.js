@@ -1,1 +1,0 @@
-var names=new Array(2);names[0]="Guru",names[1]="Dobariya",window.document.write(names[1]+" and length = "+names.length);
