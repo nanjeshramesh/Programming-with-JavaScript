@@ -1,0 +1,1 @@
+var nanjesh=[1,2,3,4];delete nanjesh[2],window.document.write(nanjesh);
