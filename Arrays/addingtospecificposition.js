@@ -1,1 +1,0 @@
-var names=[];names[0]="Guru",names[1]="Dobariya",names[2]="Umang",names[7]="Hero",window.console.log(names[5]);
